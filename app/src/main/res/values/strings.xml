@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Mileage Tracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Add_New">Add New Trip</string>
+    <string name="edit">Edit Content</string>
+    <string name="delete">Delete Content</string>
+    <string name="viewList">View List</string>
+    <string name="title_activity_display_content">Display Record</string>
+    <string name="total_all_trips">Summary Page</string>
+
+    <string name="location">Location</string>
+    <string name="time">Time</string>
+    <string name="miles">Miles</string>
+
+    <string name="date">Date Driven</string>
+
+    <string name="save">Save Content</string>
+
+    <string name="deleteContent">Are you sure, you want to delete it.</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="title_activity_display_total_miles">Summary Page</string>
+
+</resources>
